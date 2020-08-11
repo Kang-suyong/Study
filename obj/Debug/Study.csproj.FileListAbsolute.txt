@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Study\bin\Debug\Study.exe.config
+C:\Users\user\source\repos\Study\bin\Debug\Study.exe
+C:\Users\user\source\repos\Study\bin\Debug\Study.pdb
+C:\Users\user\source\repos\Study\obj\Debug\Study.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Study\obj\Debug\Study.exe
+C:\Users\user\source\repos\Study\obj\Debug\Study.pdb
+C:\Users\user\source\repos\Study\obj\Debug\Study.Program.resources
+C:\Users\user\source\repos\Study\obj\Debug\Study.csproj.GenerateResource.cache
